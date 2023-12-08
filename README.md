@@ -49,6 +49,7 @@ Link do Figma:
    Versão desktop: https://www.figma.com/file/LSe7ZICvY2VpHrzT9Tw62g/Vers%C3%A3o-Desktop?type=design&node-id=90-57&mode=design
    
 ###Participantes: 
+
             Guilherme Cabral Schlickmann (22104160)
             Guilherme Batista do Nascimento (21103570)
             Henrique Roberto dos Santos (21104285)
