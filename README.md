@@ -8,6 +8,7 @@ O Sistema de Gerenciamento de Role é uma aplicação web desenvolvida para faci
 - Convidar usuários para o role.
 - Dividir a conta do role entre os participantes.
 - Informar o PIX para o qual o valor deve ser transferido.
+![iconname](https://github.com/JeniferOvejero/BillBuddy-PWEB/assets/116187518/1a4803ec-4a85-4b20-810b-a1def9be7d81)
 ## Funcionalidades
 1. **Cadastro de Role**: No menu principal, selecione a opção "Cadastrar Role" e preencha as informações solicitadas.
 1. **Cadastro de Usuario**: Cadastrar um usuario na plataforma.
