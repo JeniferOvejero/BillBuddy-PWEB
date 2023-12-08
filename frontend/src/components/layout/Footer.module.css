@@ -1,0 +1,22 @@
+.footer {
+    color: white;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #2d0065;
+    padding: 10px;
+    width: 100%;
+    grid-row: 3;
+    z-index: 1000;
+}
+
+@media screen and (min-width: 800px){
+    .footer{
+        font-size: 2vh; 
+    }
+}
+
+
+

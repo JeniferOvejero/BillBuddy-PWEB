@@ -1,0 +1,77 @@
+.iconname{
+  height: 170px;
+  width: 167px;
+}
+.icon{
+  height: 55px;
+  width: 68px;
+}
+.bigiconname{
+  height: 250px;
+  width: 245.5px;
+}
+.default{
+  height: 180px;
+  width: 180px;
+  z-index: 1;
+}
+.perfil{
+  height: 180px;
+  width: 180px;
+  z-index: 1;
+  border-radius: 50%;
+}
+.burge{
+  height: 26px;
+  width: 40px;
+  margin-bottom: 8px;
+}
+
+.homeicon{
+  height: 30px;
+  width: 35px;
+  margin-bottom: 8px;
+}
+.image{
+  height: 180px;
+  width: 276px;
+  margin-bottom: 36px;
+  border-radius: 10px;
+}
+.logo-branca{
+  width: 150px;
+  height: 91px;
+  margin-bottom: 20%;
+}
+.copy{
+  width: 17px;
+  height: 19px;
+  margin-left: 8px;
+}
+.convite{
+  width: 178.6px;
+  height: 151px;
+}
+
+@media screen and (min-width: 1400px){
+  .bigiconname{
+    height: auto;
+    width: 20vw;
+  }
+  .default{
+    width: 12vw;
+    height: auto;
+  }
+  .logo-branca{
+    width: 10vw;
+    height: auto;
+  }
+  .homeicon{
+    width: 4vw;
+    height: auto;
+  }
+  .icon{
+    width: 5vw;
+    height: auto;
+  }
+}

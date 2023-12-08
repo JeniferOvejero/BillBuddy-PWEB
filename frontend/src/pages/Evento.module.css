@@ -1,0 +1,31 @@
+.info{
+    margin: 8px 0px;
+    padding: 16px;
+    border-radius: 10px;
+    width: 276px;
+    height: 49px;
+    background-color: var(--light-gray);
+    border: None;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: flex-start;
+}
+.botao{
+    margin-left: auto;
+}
+.p{
+    margin: 20px 0px;
+
+}
+
+@media screen and (min-width:800px){
+    .info{
+        width: 100%;
+        height: auto;
+        font-size: 1.5vw;
+    }
+}
