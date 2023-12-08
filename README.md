@@ -40,15 +40,25 @@ npm start
 
 ## Links
 Link do Projeto: https://github.com/RAILANABREU/Projeto-de-WEB
+
 Link da Aplicação online: https://front-5ncn.onrender.com/
+
 Link do Figma:
-   Versão desktop: https://www.figma.com/file/LSe7ZICvY2VpHrzT9Tw62g/Vers%C3%A3o-Desktop?type=design&node-id=90-57&mode=design 
    Versão mobile: https://www.figma.com/file/QIQsTFOlemTBIh72KTrV9U/Untitled?type=design&node-id=0-1&mode=design
-Participantes: Guilherme Cabral Schlickmann (22104160)
+   
+   Versão desktop: https://www.figma.com/file/LSe7ZICvY2VpHrzT9Tw62g/Vers%C3%A3o-Desktop?type=design&node-id=90-57&mode=design
+   
+###Participantes: 
+            Guilherme Cabral Schlickmann (22104160)
+            
             Guilherme Batista do Nascimento (21103570)
+            
             Henrique Roberto dos Santos (21104285)
+            
             Railan Gomes de Abreu (22201641)
+            
             Matheus de Medeiros Fidélis (21203406)
+            
             Jenifer Sofia Ovejero (22200500)
 
 
