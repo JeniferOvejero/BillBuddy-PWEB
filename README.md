@@ -58,3 +58,6 @@ Link do Figma:
             Jenifer Sofia Ovejero (22200500)
             Matheus de Medeiros Fidélis (21203406)
             Railan Gomes de Abreu (22201641)
+
+![bannerBillBudy](https://github.com/user-attachments/assets/5c2125ec-9df8-46df-be15-96777c8ef85b)
+
