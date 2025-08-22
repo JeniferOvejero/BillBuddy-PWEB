@@ -60,4 +60,6 @@ Link do Figma:
             Railan Gomes de Abreu (22201641)
 
 ![bannerBillBudy](https://github.com/user-attachments/assets/5c2125ec-9df8-46df-be15-96777c8ef85b)
+<img width="781" height="747" alt="image" src="https://github.com/user-attachments/assets/f43739cb-a341-4580-9673-6e62ddd4e945" />
+
 
