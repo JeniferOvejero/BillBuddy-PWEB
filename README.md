@@ -43,8 +43,6 @@ npm start
 ## Links
 Link do Projeto: https://github.com/RAILANABREU/Projeto-de-WEB
 
-Link da Aplicação online: https://front-5ncn.onrender.com/
-
 Link do Figma:
    Versão mobile: https://www.figma.com/file/QIQsTFOlemTBIh72KTrV9U/Untitled?type=design&node-id=0-1&mode=design
    
